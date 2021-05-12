@@ -75,7 +75,6 @@ The two data frames are identical here.
 ## Summary
 
 By removing the 9th grade students' data of Thomas High School from the analysis, we were able to see a drop in performance for certain metrics, albeit a very insignificant one. 
-
 - The changes affected the overall district slightly, causing a small decrease in all the percentage columns. 
 - For schools in the spending ranges of $630-644, there was a slight drop in the '% Passing Reading' and '% Overall Passing' columns. 
 - Taking into account school sizes, there was a slight drop in '% Passing Reading'.
